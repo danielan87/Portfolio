@@ -1,0 +1,26 @@
+body { 
+  padding-top: 5em;
+  background-color: black;
+}
+
+#about {
+  background-color: black;
+  color: grey;
+}
+
+#portfolio {
+  background-color: #71b59c;
+}
+
+#about-text {
+  margin:0 auto;
+}
+#portfolio-top-row {
+  margin-bottom: 1em;
+}
+
+.thumbnail img {
+  height: 180px;
+  width: 100%;
+  display: block;
+}
